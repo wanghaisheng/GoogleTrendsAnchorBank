@@ -8,3 +8,5 @@ copies/
 .ipynb_checkpoints/
 build/
 gtab.egg-info/
+
+venv
